@@ -28,13 +28,13 @@ git --git-dir=/home/diademiemi/.cfg --work-tree=$HOME add path/to/some/file
 
 to commit this, run:
 ```
-git --git-dir=/home/diademiemi/.cfg --work-tree=$home commit -m "message"
+git --git-dir=/home/diademiemi/.cfg --work-tree=$HOME commit -m "message"
 ```
 ###### using default variables from the variables section, please replace according to your setup
 
 then to push it, you can run:
 ```
-git --git-dir=/home/diademiemi/.cfg --work-tree=$home push
+git --git-dir=/home/diademiemi/.cfg --work-tree=$HOME push
 ```
 ###### Using default variables from the Variables section, please replace according to your setup
 
