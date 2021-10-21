@@ -1,0 +1,27 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: dotfiles-git-bare
+  author: diademiemi
+  description: Ansible role to install dotfiles using a Git bare repository.
+  license: "license (MIT)"
+  min_ansible_version: 2.2
+  platforms:
+    - name: GenericUNIX
+      versions:
+        - all
+        - any
+    - name: GenericBSD
+      versions:
+        - all
+        - any
+    - name: GenericLinux
+      versions:
+        - all
+        - any
+  galaxy_tags:
+    - development
+    - dotfiles
+    - configuration
+    - git

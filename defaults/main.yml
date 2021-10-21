@@ -1,0 +1,9 @@
+---
+dotfiles_repo: "https://github.com/diademiemi/cfg.git"
+dotfiles_repo_directory: "/home/diademiemi/.cfg"
+dotfiles_user: "diademiemi"
+
+dotfiles_checkout:
+  - .zshrc
+  - .zsh/
+  - .vimrc
