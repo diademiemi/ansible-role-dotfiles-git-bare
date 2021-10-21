@@ -7,9 +7,8 @@
 name: Release
 on:
   push:
-    tags:
-      - '*'
-
+    branches:
+     - main
 defaults:
   run:
     working-directory: 'diademiemi.dotfiles_git_bare'
