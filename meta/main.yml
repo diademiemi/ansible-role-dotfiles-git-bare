@@ -2,9 +2,9 @@
 dependencies: []
 
 galaxy_info:
-  role_name: dotfiles-git-bare
-  author: diademiemi
-  description: Ansible role to install dotfiles using a Git bare repository.
+  role_name: "dotfiles_git_bare"
+  author: "diademiemi"
+  description: "Ansible role to install dotfiles using a Git bare repository."
   license: "license (MIT)"
   min_ansible_version: 2.2
   platforms:
